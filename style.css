@@ -180,6 +180,7 @@ i {
     grid-template-columns: 14% 70% 16%;
     border-bottom: 1px solid lightgrey;
     padding-left: 10px;
+    cursor: pointer;
 }
 
 .container .left .chats img {
